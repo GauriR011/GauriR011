@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GauriR011
-- 👀 I’m interested in Data Analysis, Data Science and Machine Learning domains.
+- 👀 I’m interested in Data Analysis, Data Science, and Machine Learning domains.
 - 🌱 I’m currently working on Sign Language Recognition using Deep Learning models.
-- 💞️ I’m looking to collaborate on Data Analysis and machine learning concepts.
+- 💞️ I’m looking to collaborate on Data Analysis and Machine Learning concepts.
 - 📫 How to reach me through Linked In: https://www.linkedin.com/in/gauri-revankar .
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Too many to list ;)
