@@ -1,9 +1,8 @@
-## Hi There, I’m @GauriR011 👋
-- 👀 I’m interested in Data Analysis, Data Science, and Machine Learning domains.
-- 🌱 I’m currently working on Sign Language Recognition using Deep Learning models.
-- 💞️ I’m looking to collaborate on Data Analysis and Machine Learning concepts.
-- 📫 How to reach me through Linked In: https://www.linkedin.com/in/gauri-revankar .
+## Hi There, I’m Gauri 👋
 - 😄 Pronouns: she/her
+- 👀 Background in Data Analysis, Data Science, and Machine Learning.
+- 🌱 Currently a master's student at UT Austin 🤟
+- 💞️ Learning about the power of Data Analysis and Visualization
 - ⚡ Fun fact: Too many to list ;)
 
 <!---
