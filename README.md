@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GauriR011
+## Hi There, I’m @GauriR011 👋
 - 👀 I’m interested in Data Analysis, Data Science, and Machine Learning domains.
 - 🌱 I’m currently working on Sign Language Recognition using Deep Learning models.
 - 💞️ I’m looking to collaborate on Data Analysis and Machine Learning concepts.
