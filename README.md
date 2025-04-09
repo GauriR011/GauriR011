@@ -1,8 +1,7 @@
 ## Hi There, I’m Gauri 👋
-- 😄 Pronouns: she/her
-- 👀 Background in Data Analysis, Data Science, and Machine Learning.
+- 📊 Background in Data Analysis, Data Science, and Machine Learning.
 - 🌱 Currently a master's student at UT Austin 🤟
-- 💞️ Learning about the power of Data Analysis and Visualization
+- 👀 Learning about the power of Data Analysis and Visualization
 - ⚡ Fun fact: Too many to list ;)
 
 <!---
