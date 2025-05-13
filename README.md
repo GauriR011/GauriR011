@@ -37,7 +37,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-
+![snake gif](https://github.com/GauriR011/GauriR011/blob/output/github-snake-dark.svg)
 
 <!---
 GauriR011/GauriR011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
