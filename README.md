@@ -1,7 +1,7 @@
 ## 👋 Hi There!, I’m Gauri 
 📊 Background in Data Analysis, Data Science, and Machine Learning. <br>
 📖 Currently a Data Science Master's student at UT Austin 🤟<br>
-💡 Learning about the power of Data Analysis and Visualization<br>
+🔗 [Click Here](https://www.datascienceportfol.io/marimogojo) to check out my Portfolio!<br>
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
